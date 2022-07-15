@@ -1,10 +1,10 @@
 package iphone;
 
-public interface ITelephone {
+interface ITelephone {
 
 	void call(String contactName);
 	
-	void answer();
+	void answerCall();
 	
 	void accessVoiceMail();
 	

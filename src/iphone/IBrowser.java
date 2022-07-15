@@ -1,6 +1,6 @@
 package iphone;
 
-public interface IBrowser {
+interface IBrowser {
 
 	void showPage(String url);
 	
